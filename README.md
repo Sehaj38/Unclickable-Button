@@ -1,7 +1,7 @@
 # Unclickable-Button
 
 
-# 👋 Hi there! I'm Sehaneet Kaur
+# 👋 Hi there! I'm Sehajneet Kaur
 
 🎯 A passionate developer on a mission to build intuitive, efficient, and impactful tech solutions.
 
