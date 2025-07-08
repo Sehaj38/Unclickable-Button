@@ -1,0 +1,10 @@
+html {
+background-color: rgb(201, 156, 217);
+}
+h1,h2{
+    color: white;
+}
+.link{
+    border-radius: 10px;
+    width: 500px;
+}
